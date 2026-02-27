@@ -206,7 +206,7 @@ p.note { display: none; }
 <a href="20260228_015.JPG" target="_blank"><img src="20260228_015.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260228_016.JPG" target="_blank"><img src="20260228_016.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">棺の前の電動式水車模型がユニークな動き<br>画像クリックで動画再生します↓</span></h2>
+<h2><span class="yellow">棺の前の電動式水車模型がユニークな動き<br>画像クリックで動画再生します ↓ Click to play the video.</span></h2>
 <a href="https://youtube.com/shorts/SFmhVJC4Zmo?feature=share" target="_blank"><img src="20260228_040.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">地方のこういったイベントは、大盛況です</span></h2>
